@@ -1,0 +1,17 @@
+E:\My_Github\Ddns\2022_4_30冯建坤同步he.net\DDNS_END\bin\Debug\net5.0-windows\win-x64\DDNS_END.exe
+E:\My_Github\Ddns\2022_4_30冯建坤同步he.net\DDNS_END\bin\Debug\net5.0-windows\win-x64\DDNS_END.deps.json
+E:\My_Github\Ddns\2022_4_30冯建坤同步he.net\DDNS_END\bin\Debug\net5.0-windows\win-x64\DDNS_END.runtimeconfig.json
+E:\My_Github\Ddns\2022_4_30冯建坤同步he.net\DDNS_END\bin\Debug\net5.0-windows\win-x64\DDNS_END.runtimeconfig.dev.json
+E:\My_Github\Ddns\2022_4_30冯建坤同步he.net\DDNS_END\bin\Debug\net5.0-windows\win-x64\DDNS_END.dll
+E:\My_Github\Ddns\2022_4_30冯建坤同步he.net\DDNS_END\bin\Debug\net5.0-windows\win-x64\ref\DDNS_END.dll
+E:\My_Github\Ddns\2022_4_30冯建坤同步he.net\DDNS_END\bin\Debug\net5.0-windows\win-x64\DDNS_END.pdb
+E:\My_Github\Ddns\2022_4_30冯建坤同步he.net\DDNS_END\obj\Debug\net5.0-windows\win-x64\DDNS_END.Form1.resources
+E:\My_Github\Ddns\2022_4_30冯建坤同步he.net\DDNS_END\obj\Debug\net5.0-windows\win-x64\DDNS_END.csproj.GenerateResource.cache
+E:\My_Github\Ddns\2022_4_30冯建坤同步he.net\DDNS_END\obj\Debug\net5.0-windows\win-x64\DDNS_END.GeneratedMSBuildEditorConfig.editorconfig
+E:\My_Github\Ddns\2022_4_30冯建坤同步he.net\DDNS_END\obj\Debug\net5.0-windows\win-x64\DDNS_END.AssemblyInfoInputs.cache
+E:\My_Github\Ddns\2022_4_30冯建坤同步he.net\DDNS_END\obj\Debug\net5.0-windows\win-x64\DDNS_END.AssemblyInfo.cs
+E:\My_Github\Ddns\2022_4_30冯建坤同步he.net\DDNS_END\obj\Debug\net5.0-windows\win-x64\DDNS_END.csproj.CoreCompileInputs.cache
+E:\My_Github\Ddns\2022_4_30冯建坤同步he.net\DDNS_END\obj\Debug\net5.0-windows\win-x64\DDNS_END.dll
+E:\My_Github\Ddns\2022_4_30冯建坤同步he.net\DDNS_END\obj\Debug\net5.0-windows\win-x64\ref\DDNS_END.dll
+E:\My_Github\Ddns\2022_4_30冯建坤同步he.net\DDNS_END\obj\Debug\net5.0-windows\win-x64\DDNS_END.pdb
+E:\My_Github\Ddns\2022_4_30冯建坤同步he.net\DDNS_END\obj\Debug\net5.0-windows\win-x64\DDNS_END.genruntimeconfig.cache
